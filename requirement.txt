@@ -1,0 +1,8 @@
+pandas
+opencv-python
+opencv-contrib-python
+numpy
+dlib
+tk 
+pillow
+matplotlib
